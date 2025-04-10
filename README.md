@@ -7,10 +7,9 @@ Me Chamo Álex Viana Paris, tenho 34 anos sou natural de São Paulo. Estou cursa
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
