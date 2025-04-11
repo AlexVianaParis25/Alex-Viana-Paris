@@ -20,5 +20,5 @@ Me Chamo Álex Viana Paris, tenho 34 anos sou natural de São Paulo. Estou cursa
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-
+theme=transparent bg_color=000 border_color=30A3DC show_icons=true icon_color=30A3DC title_color=E94D5F text_color=FFF
 
