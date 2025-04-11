@@ -139,3 +139,5 @@ Me Chamo Álex Viana Paris, tenho 34 anos sou natural de São Paulo. Estou cursa
   />
 
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-paris-842879161/))
